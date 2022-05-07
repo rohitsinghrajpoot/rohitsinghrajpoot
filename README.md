@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Rohit Singh
 
-<!--
-**rohitsinghrajpoot/rohitsinghrajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ### About Me
 
 🙂   Exploring new technologies and learning data structures and algorithms. 
 🎓   Learning Web Development at masai school
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
         I am unable then surely we will together towards learning new things.
 
 ⚡ Fun fact: Passion for coding,playing chess.
--->
+
