@@ -19,18 +19,11 @@
 ⚡ Fun fact: Passion for coding,playing chess.
 
 
-🛠  Skill
+### 🛠  Skill
 
 🌐   
 ![image](https://user-images.githubusercontent.com/95858652/167268673-a734d325-49f5-4617-a0f2-f2c6c90d3a51.png)  
 ![image](https://user-images.githubusercontent.com/95858652/167268834-5668b2e4-3e34-4de1-abf0-01a5af56e6eb.png)
 
-
-
-
-
-⚙️   Git GitHub
-
-🔧   Visual Studio Code
 
 
