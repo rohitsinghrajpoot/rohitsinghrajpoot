@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Rohit Singh
 
 
- ### About Me                                                                            ![img](https://camo.githubusercontent.com/973ed9aeb3fcbda48056b50f688fa280009567cc020a2b71fc2f67a7e14feb36/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966)
+ ### About Me                                                                           
 
 🙂   Exploring new technologies and learning data structures and algorithms. 
 
-🎓   Learning Web Development at masai school
+🎓   Learning Web Development at masai school                                       ![img](https://camo.githubusercontent.com/973ed9aeb3fcbda48056b50f688fa280009567cc020a2b71fc2f67a7e14feb36/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65662f31362f65342f65663136653465363862306433636238316536626238613863333235386437652e676966)
 
 💼   Aspire to work as a MERN Stack developer.
 
