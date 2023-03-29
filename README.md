@@ -29,4 +29,6 @@
 
 
  # [portfolio](https://rohitsinghrajpoot.github.io/)
+ Email : rohitsinghrtr@gmail.com
+ #[linkedn](https://www.linkedin.com/in/rohit-singh-rajpoot/)
 
