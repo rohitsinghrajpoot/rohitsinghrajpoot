@@ -23,8 +23,8 @@
 
  Technical Skills   
 <img src="https://user-images.githubusercontent.com/95858652/228529652-f6f2a24d-3216-467d-af61-0ec91ed9219a.jpg" width=120px height=120px>  
-<img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120 height=120px>
-<img src="https://clipground.com/images/sql-logo-clipart.jpg" width=120px height=120px>
+<img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120 height=120px> <br>
+<img src="https://clipground.com/images/sql-logo-clipart.jpg" width=120px height=120px> <br>
 <img src="https://th.bing.com/th?id=OIP.1Sk5de-0r6R3D2EcdAW9aQHaD7&w=342&h=182&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" width=120px height=120px>
 
 
