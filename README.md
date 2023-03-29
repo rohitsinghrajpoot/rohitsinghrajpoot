@@ -22,7 +22,7 @@
 ### 🛠  Skill
 
  Technical Skills   
-<img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120px height=120px>  
+<img src="https://user-images.githubusercontent.com/95858652/228529652-f6f2a24d-3216-467d-af61-0ec91ed9219a.jpg" width=120px height=120px>  
 <img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120 height=120px>
 <img src="https://user-images.githubusercontent.com/95858652/228410587-92594acd-0870-4864-b2fe-a3f91bf5f2a5.jpg" width=120px height=120px>
 
