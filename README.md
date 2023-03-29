@@ -26,9 +26,13 @@
 ![image](https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg)
 ![image](https://user-images.githubusercontent.com/95858652/228410587-92594acd-0870-4864-b2fe-a3f91bf5f2a5.jpg)
 
+soft skills
+![image](https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg)
 
 
- # [portfolio](https://rohitsinghrajpoot.github.io/)
+
+
+ #[portfolio](https://rohitsinghrajpoot.github.io/)
  Email : rohitsinghrtr@gmail.com
  #[linkedn](https://www.linkedin.com/in/rohit-singh-rajpoot/)
 
