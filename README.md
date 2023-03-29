@@ -21,17 +21,17 @@
 
 ### 🛠  Skill
 
-🌐   
-![image](https://user-images.githubusercontent.com/95858652/167268673-a734d325-49f5-4617-a0f2-f2c6c90d3a51.png)  
+ Technical Skills   
+<img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120px height=120px>  
 <img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120 height=120px>
-![image](https://user-images.githubusercontent.com/95858652/228410587-92594acd-0870-4864-b2fe-a3f91bf5f2a5.jpg)
+<img src="https://user-images.githubusercontent.com/95858652/228410587-92594acd-0870-4864-b2fe-a3f91bf5f2a5.jpg" width=120px height=120px>
 
 soft skills
 
 
-![image](https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg)
-![image](https://user-images.githubusercontent.com/95858652/228420442-944e6f9e-5303-4cf2-bc57-7ffccf4f0f8a.jpg)
-![image](https://user-images.githubusercontent.com/95858652/228419645-9f45fbda-b9d6-4c4d-9c3d-d5ec689fb64a.jpg)
+<img src="https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg" width=120px height=120px>
+<img src ="https://user-images.githubusercontent.com/95858652/228420442-944e6f9e-5303-4cf2-bc57-7ffccf4f0f8a.jpg" width=120px height=120p>
+<img src="https://user-images.githubusercontent.com/95858652/228419645-9f45fbda-b9d6-4c4d-9c3d-d5ec689fb64a.jpg" widt=120px height=120px>
 
 
 
