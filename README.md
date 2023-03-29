@@ -35,7 +35,8 @@ soft skills
 
 <img src="https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg" width=120px height=120px>
 <img src ="https://user-images.githubusercontent.com/95858652/228420442-944e6f9e-5303-4cf2-bc57-7ffccf4f0f8a.jpg" width=120px height=120p>
-<img src="https://user-images.githubusercontent.com/95858652/228419645-9f45fbda-b9d6-4c4d-9c3d-d5ec689fb64a.jpg" widt=120px height=120px>
+<img src="https://th.bing.com/th/id/OIP.hRbFHqyqConcYO9Po-A6EAHaEK?w=292&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" widt=120px height=120px>
+
 
 
 
