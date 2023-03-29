@@ -27,7 +27,13 @@
 ![image](https://user-images.githubusercontent.com/95858652/228410587-92594acd-0870-4864-b2fe-a3f91bf5f2a5.jpg)
 
 soft skills
+
+
 ![image](https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg)
+![image](https://user-images.githubusercontent.com/95858652/228419399-d252c8f3-ff0c-4b48-8f96-695cb917c01f.jpg)
+![image](https://user-images.githubusercontent.com/95858652/228419645-9f45fbda-b9d6-4c4d-9c3d-d5ec689fb64a.jpg)
+
+
 
 
 
