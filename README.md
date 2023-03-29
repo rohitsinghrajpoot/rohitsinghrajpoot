@@ -23,7 +23,8 @@
 
 🌐   
 ![image](https://user-images.githubusercontent.com/95858652/167268673-a734d325-49f5-4617-a0f2-f2c6c90d3a51.png)  
-![image](https://user-images.githubusercontent.com/95858652/167268834-5668b2e4-3e34-4de1-abf0-01a5af56e6eb.png)
+![image](![th](https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg)
+)
 
- # [portfolio](https://rohitsingh-portfolio.netlify.app)
+ # [portfolio](https://rohitsinghrajpoot.github.io/)
 
