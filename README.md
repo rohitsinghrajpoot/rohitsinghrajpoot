@@ -13,7 +13,7 @@
       Happy to Contribute in Open source Projects
       
 💬   Ask me about anything related to HTML JavaScript CSS Linux OS SQL .I will be happy to help, if
-      I am unable then surely we will together towards learning new things.
+      I am unable then surely we will together learn new things.
       
 
 ⚡ Fun fact: Passion for coding,playing chess.
