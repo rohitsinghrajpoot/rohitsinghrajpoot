@@ -22,14 +22,14 @@
 ### 🛠  Skill
 
  Technical Skills 
- <div style="display:grid;">
+ 
 <img src="https://th.bing.com/th/id/R.0a5001e662e207eed1fabb0e61657426?rik=7qLc8Fw9Sfnu7Q&riu=http%3a%2f%2f2.bp.blogspot.com%2f_opS9Z5vqQYQ%2fTTYrMHXNiRI%2fAAAAAAAAAVA%2fH0gJ2oCoBTg%2fs1600%2fhtml5_bg_no_icons.png&ehk=VbwF6rPRBtInmKq36kBD0DtHTemy0gFaGoHtNqViRLw%3d&risl=&pid=ImgRaw&r=0" width=120px height=120px>
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/css-beginners-tutorial.jpg" width=120px height=120px>
-<img src="https://www.logolynx.com/images/logolynx/s_d2/d291a7cd1575efa57895572b588f9a13.png" width=120px height=120px>
-<img src="https://user-images.githubusercontent.com/95858652/228409798-ad69ff18-9287-4d4a-b51b-3c722da856b9.jpg" width=120 height=120px> <br>
-<img src="https://clipground.com/images/sql-logo-clipart.jpg" width=120px height=120px> <br>
+<img src="https://toon2.in/wp-content/uploads/revslider/white-banner/js2.png" width=120px height=120px>
+<img src="https://pngimg.com/uploads/linux/linux_PNG51.png" width=120 height=120px> 
+<img src="https://clipground.com/images/sql-logo-clipart.jpg" width=120px height=120px> 
 <img src="https://th.bing.com/th?id=OIP.1Sk5de-0r6R3D2EcdAW9aQHaD7&w=342&h=182&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" width=120px height=120px>
-</div>
+
 
 
 
