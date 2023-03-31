@@ -41,6 +41,7 @@ soft skills
 <img src="https://cdn.educba.com/academy/wp-content/uploads/2015/07/Effective-Communication-300x171.png" width=150px height= 120px>
 <img src="https://th.bing.com/th/id/OIP.sEc_krl5dwdDGLwOJmTncAHaCq?w=280&h=125&c=7&r=0&o=5&dpr=1.4&pid=1.7"  height=120px>
 </div>
+<br>
 
 
 
