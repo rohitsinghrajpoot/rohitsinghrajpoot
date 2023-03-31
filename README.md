@@ -19,7 +19,7 @@
 ⚡ Fun fact: Passion for coding,playing chess.
 
 
-### 🛠  Skill
+### 🛠  Skills
 
  Technical Skills 
  <div style="display:flex">
@@ -30,7 +30,7 @@
 <img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width=120px height=120px> 
 <img src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell-980x521.png" width=120px height=120px>
 </div>
-
+<br>
 
 
 soft skills
