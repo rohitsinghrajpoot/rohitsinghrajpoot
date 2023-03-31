@@ -28,18 +28,18 @@
 <img src="https://toon2.in/wp-content/uploads/revslider/white-banner/js2.png" width=120px height=120px>
 <img src="https://pngimg.com/uploads/linux/linux_PNG51.png" width=120 height=120px> 
 <img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width=120px height=120px> 
-<img src="https://th.bing.com/th?id=OIP.1Sk5de-0r6R3D2EcdAW9aQHaD7&w=342&h=182&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" width=120px height=120px>
+<img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/Shell-Scripting-1000x1000.jpg" width=120px height=120px>
 </div>
 
 
 
 soft skills
 
-
-<img src="https://user-images.githubusercontent.com/95858652/228418589-45afdc49-f613-4416-bccb-34d19ce7954a.jpg" width=120px height=120px>
+<div style="display:flex;">
+<img src="https://cdn.dribbble.com/users/673583/screenshots/15538480/media/1ba6f85e703687f46d410e00dbcc5ee5.gif" width=120px height=120px>
 <img src ="https://th.bing.com/th/id/OIP.hRbFHqyqConcYO9Po-A6EAHaEK?w=292&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" width=120px height=120p>
 <img src="https://th.bing.com/th/id/OIP.sEc_krl5dwdDGLwOJmTncAHaCq?w=280&h=125&c=7&r=0&o=5&dpr=1.4&pid=1.7" widt=120px height=120px>
-
+</div>
 
 
 
