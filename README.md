@@ -28,7 +28,7 @@
 <img src="https://toon2.in/wp-content/uploads/revslider/white-banner/js2.png" width=120px height=120px>
 <img src="https://pngimg.com/uploads/linux/linux_PNG51.png" width=120 height=120px> 
 <img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width=120px height=120px> 
-<img src="https://florencefennel.co.in/image/cache/catalog/florencefennel/Shell-Scripting-1000x1000.jpg" width=120px height=120px>
+<img src="https://www.automationlaboratories.com/wp-content/uploads/2018/02/Shell-1.png" width=120px height=120px>
 </div>
 
 
