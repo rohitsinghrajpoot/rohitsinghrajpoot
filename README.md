@@ -23,11 +23,11 @@
 
  Technical Skills 
  <div style="display:flex">
-<img src="https://th.bing.com/th/id/R.0a5001e662e207eed1fabb0e61657426?rik=7qLc8Fw9Sfnu7Q&riu=http%3a%2f%2f2.bp.blogspot.com%2f_opS9Z5vqQYQ%2fTTYrMHXNiRI%2fAAAAAAAAAVA%2fH0gJ2oCoBTg%2fs1600%2fhtml5_bg_no_icons.png&ehk=VbwF6rPRBtInmKq36kBD0DtHTemy0gFaGoHtNqViRLw%3d&risl=&pid=ImgRaw&r=0" width=120px height=120px>
+<img src="https://th.bing.com/th/id/R.9a423c88c1fa5567330433fd95cf12a9?rik=I9OXaIDfhKGN3w&riu=http%3a%2f%2fblog.nikunjjoshiphpdeveloper.com%2fwp-content%2fuploads%2f2018%2f05%2fhtml-280x250.png&ehk=oAKo6IcCzWCzpW%2fUIAQFZvzeJ3E2JqczUuAaDVVFePU%3d&risl=&pid=ImgRaw&r=0" width=120px height=120px>
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/css-beginners-tutorial.jpg" width=120px height=120px>
 <img src="https://toon2.in/wp-content/uploads/revslider/white-banner/js2.png" width=120px height=120px>
 <img src="https://pngimg.com/uploads/linux/linux_PNG51.png" width=120 height=120px> 
-<img src="https://clipground.com/images/sql-logo-clipart.jpg" width=120px height=120px> 
+<img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width=120px height=120px> 
 <img src="https://th.bing.com/th?id=OIP.1Sk5de-0r6R3D2EcdAW9aQHaD7&w=342&h=182&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" width=120px height=120px>
 </div>
 
