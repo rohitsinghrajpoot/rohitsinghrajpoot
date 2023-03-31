@@ -28,7 +28,7 @@
 <img src="https://toon2.in/wp-content/uploads/revslider/white-banner/js2.png" width=120px height=120px>
 <img src="https://pngimg.com/uploads/linux/linux_PNG51.png" width=120 height=120px> 
 <img src="https://clipground.com/images/sql-logo-clipart-2.jpg" width=120px height=120px> 
-<img src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell-980x521.png" width=120px height=120px>
+<img src="https://www.webinartechnologies.com/wp-content/uploads/2020/10/shell-980x521.png" width=150px height=120px>
 </div>
 <br>
 
