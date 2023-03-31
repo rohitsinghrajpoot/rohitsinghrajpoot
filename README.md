@@ -37,7 +37,7 @@ soft skills
 
 <div style="display:flex;">
 <img src="https://cdn.dribbble.com/users/673583/screenshots/15538480/media/1ba6f85e703687f46d410e00dbcc5ee5.gif" width=120px height=120px>
-<img src ="https://th.bing.com/th/id/OIP.hRbFHqyqConcYO9Po-A6EAHaEK?w=292&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" width=120px height=120p>
+<img src ="https://icareifyoulisten.com/wp-content/uploads/2018/12/active-listening-logo-691px.jpg" width=120px height=120p>
 <img src="https://th.bing.com/th/id/OIP.sEc_krl5dwdDGLwOJmTncAHaCq?w=280&h=125&c=7&r=0&o=5&dpr=1.4&pid=1.7" widt=120px height=120px>
 </div>
 
